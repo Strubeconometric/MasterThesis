@@ -2,7 +2,11 @@
 
 This projected was created for a master thesis at University of Duisburg-Essen to ensure scientific transparency criteria.
 
-To run this project do the following:
+To replicate the econometric models with Stata import the "tidy_data_for_replication.csv" file
+
+OR
+
+To run the complete code do the following:
 
 create a parent folder (name does not matter)
 
@@ -16,4 +20,4 @@ open the R file and make sure that the working directory/here/project file is lo
 
 follow the instructions in the R script and run the code
 
-check the output folder for regression tables, descriptive tables, and illustrations
+check the output folder for regression tables, descriptive tables, and illustration
